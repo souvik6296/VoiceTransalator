@@ -1,4 +1,4 @@
-![image](https://github.com/souvik6296/CB69-Hackathon/assets/126523316/be5c898b-98e2-4162-ad3e-4377df65acdb)# CB69-Hackathon
+# CB69-Hackathon
 
 problem_statement_no= CBP21;
 problem_title= "Speech to text transcription for Indian languages. The problem entails transcription in the native script and then translation to English. The languages of interest are Hindi, Indian English, Urdu, Bengali, Punjabi";
