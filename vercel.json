@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "Hackathon/*.php": {
+      "runtime": "vercel-php@0.6.0"
+    }
+  },
+  "routes": [
+    { "src": "/(.*)",  "dest": "/Hackathon/page.php" }
+  ]
+}
